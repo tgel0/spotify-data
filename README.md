@@ -8,4 +8,18 @@ Practical experience in a full-stack data science project, going from data retri
 
 ## Notebooks
 
-(**Note: notebook files temporarily removed as I'm working on an updated version**)
+* Data retrieval: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb)
+* Data exploration: **TBA**
+* Modeling: **TBA**
+
+## Built With
+
+### APIs
+
++ [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+
+### Python libraries:
+
+* [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/) - data analysis
+* [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/) - data visualization
+* [Spotipy](https://spotipy.readthedocs.io/) - access to Spotify Web API
