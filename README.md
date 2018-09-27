@@ -9,7 +9,7 @@ Practical experience in a full-stack data science project, going from data retri
 ## Notebooks
 
 * Data retrieval: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb)
-* Data exploration: **TBA**
+* Data exploration: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb)
 * Modeling: **TBA**
 
 ## Built With
