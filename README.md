@@ -12,6 +12,11 @@ Practical experience in a full-stack data science project, going from data retri
 * Data exploration: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb)
 * Modeling: **TBA**
 
+## Blog Posts
+
++ ['Spotify Data Project Part 1 - from Data Retrieval to First Insights' on tgel0.github.io](https://tgel0.github.io/blog/spotify-data-project-part-1-from-data-retrieval-to-first-insights/)
++ ['Using Data to Find the Most Popular Tracks of the Summer on Spotify' on Medium.com](https://medium.com/@tgel0/kiki-do-you-analyze-me-using-data-to-find-the-most-popular-tracks-of-the-summer-on-spotify-67ba8ef5773c)
+
 ## Built With
 
 ### APIs
