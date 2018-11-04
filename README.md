@@ -1,10 +1,10 @@
-# Spotify Data (work in progress)
+# Spotify Data Project (work in progress)
 
-A full-stack data project utilizing data from the official Spotify Web API.
+A full-stack data project utilizing audio features data from the official Spotify Web API.
 
 ## Motivation
 
-My main motivation for this project was to get practical experience in all the steps of a data project including (automated) data retrieval, data exploration as well as data modeling, using Python, SQL and Bash.
+Main motivation for this project was to get practical experience in all the steps of a data project including (automated) data retrieval, data exploration as well as data modeling, using Python, SQL and Bash.
 
 ## Notebooks
 
