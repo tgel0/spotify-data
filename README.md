@@ -12,6 +12,11 @@ Main motivation for this project was to get practical experience in all the step
 * Data exploration: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb)
 * Modeling: **TBA**
 
+## 📁 Datasets
+
+Data is available on [Kaggle](https://www.kaggle.com/tomigelo/spotify-audio-features) (latest update: April 2019)
+
+
 ## 📝 Blog Posts
 
 + ['Spotify Data Project Part 1 - from Data Retrieval to First Insights' on tgel0.github.io](https://tgel0.github.io/blog/spotify-data-project-part-1-from-data-retrieval-to-first-insights/) and republished by [Towards Data Science on Medium.com](https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3)
