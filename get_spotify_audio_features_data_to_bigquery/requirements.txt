@@ -1,0 +1,2 @@
+spotipy
+google-cloud-bigquery
